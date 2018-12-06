@@ -4,4 +4,4 @@
 
 Editing to test Poll SCM in jenkins job.
 
-Editing to test Webhook jenkins today.
+Editing to test Webhook jenkins.

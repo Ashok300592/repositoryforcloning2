@@ -1,11 +1,3 @@
-drop procedure sp_ashok
-go
-drop procedure sp_ashok2
-go
-drop procedure sp_ashok3
-go
-
-
 
   --sp_ashok
  
